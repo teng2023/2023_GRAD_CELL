@@ -8,6 +8,9 @@ Data (pattern) 來自 **img1.pattern**,  **img2.pattern**, **img3.pattern**, **i
 
 **tb.sv**, **tb_test.sv** 是TB
 
+
+
+
 ### Pass the test bench simulation
 
 **LASER_v2.v** 使用直接計算40個點與圓心的距離。
