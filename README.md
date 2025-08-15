@@ -2,11 +2,11 @@
 
 ## 檔案介紹
 
-Data (pattern) 來自 **img1.pattern**,  **img2.pattern**, **img3.pattern**, **img4.pattern**, **img5.pattern**, **img6.pattern** 
+Pattern：**img1.pattern**,  **img2.pattern**, **img3.pattern**, **img4.pattern**, **img5.pattern**, **img6.pattern** 
 
-**LASER** 是原始檔案
+Original file：**LASER.v** 
 
-**tb.sv**, **tb_test.sv** 是TB  
+Test Bench：**tb.sv**, **tb_test.sv** 
 
 ### *Pass the test bench simulation*
 
