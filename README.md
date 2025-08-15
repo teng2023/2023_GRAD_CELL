@@ -6,7 +6,7 @@ Data (pattern) 來自 **img1.pattern**,  **img2.pattern**, **img3.pattern**, **i
 
 **LASER** 是原始檔案
 
-**tb.sv**, **tb_test.sv** 是TB
+**tb.sv**, **tb_test.sv** 是TB  
 
 ### Pass the test bench simulation
 
