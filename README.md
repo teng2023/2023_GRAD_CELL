@@ -8,13 +8,13 @@ Data (pattern) 來自 **img1.pattern**,  **img2.pattern**, **img3.pattern**, **i
 
 **tb.sv**, **tb_test.sv** 是TB  
 
-### Pass the test bench simulation
+### *Pass the test bench simulation*
 
-**LASER_v2.v** 使用直接計算40個點與圓心的距離。
+**LASER_v2.v**：使用直接計算40個點與圓心的距離。
 
-### Failed the test bench simulation
+### *Failed the test bench simulation*
 
-**LASER_v1.v** 使用類似於convolution的方式。
+**LASER_v1.v**：使用類似於convolution的方式。
 
 (Failure reason：演算法有問題)
 
