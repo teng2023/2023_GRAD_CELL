@@ -14,6 +14,7 @@ Data (pattern) 來自 **img1.pattern**,  **img2.pattern**, **img3.pattern**, **i
 
 ### Failed the test bench simulation
 
-**LASER_v1.v** 使用類似於convolution的方式 (Failure reason：演算法有問題)。
+**LASER_v1.v** 使用類似於convolution的方式 
+(Failure reason：演算法有問題)。
 
 
