@@ -1,4 +1,8 @@
-# 2023_GRAD_CELL (2023 IC競賽初賽)
+# 2023_GRAD_CELL (2023 IC競賽 研究所 初賽)
+
+## 題目說明
+
+![question](https://github.com/teng2023/2023_GRAD_CELL/blob/main/question.png)
 
 ## 檔案介紹
 
